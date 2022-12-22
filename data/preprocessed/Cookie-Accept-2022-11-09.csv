@@ -1,0 +1,999 @@
+url,is_accept,banner_text
+https://google.com,True,"alle akzeptieren"
+https://facebook.com,True,"allow essential and optional cookies"
+https://youtube.com,True,"accept all"
+https://linkedin.com,True,"accept"
+https://instagram.com,True,"allow essential and optional cookies"
+https://twitter.com,False,
+https://apple.com,False,
+https://microsoft.com,True,"annehmen"
+https://wikipedia.org,False,
+https://googletagmanager.com,False,
+https://wordpress.org,False,
+https://youtu.be,True,"accept all"
+https://en.wikipedia.org,False,
+https://pinterest.com,False,
+https://play.google.com,False,
+https://vimeo.com,True,"alle cookies akzeptieren"
+https://github.com,False,
+https://maps.google.com,True,"alle akzeptieren"
+https://plus.google.com,False,
+https://goo.gl,True,"ok"
+https://bit.ly,True,"got it"
+https://adobe.com,True,"enable all"
+https://docs.google.com,False,
+https://wordpress.com,True,"accept all"
+https://blogspot.com,False,
+https://amazon.com,False,
+https://player.vimeo.com,True,"alle cookies akzeptieren"
+https://itunes.apple.com,False,
+https://mozilla.org,False,
+https://apps.apple.com,False,
+https://macromedia.com,False,
+https://drive.google.com,False,
+https://yahoo.com,True,"alle akzeptieren"
+https://support.google.com,False,
+https://whatsapp.com,True,"accept"
+https://accraine.co.uk,False,
+https://tumblr.com,True,"i agree"
+https://download.macromedia.com,False,
+https://europa.eu,True,"accept all cookies"
+https://api.whatsapp.com,False,
+https://flickr.com,True,"accept all"
+https://nih.gov,False,
+https://reddit.com,True,"accept all"
+https://gravatar.com,True,"accept all"
+https://qq.com,False,
+https://nytimes.com,True,"accept"
+https://amazonaws.com,False,
+https://policies.google.com,False,
+https://apache.org,False,
+https://sites.google.com,False,
+https://github.io,False,
+https://soundcloud.com,True,"i accept"
+https://t.co,False,
+https://w3.org,False,
+https://medium.com,False,
+https://miit.gov.cn,False,
+https://forbes.com,True,"accept all"
+https://forms.gle,False,
+https://zoom.us,True,"accept cookies"
+https://spotify.com,True,"cookies akzeptieren"
+https://baidu.com,False,
+https://www.ncbi.nlm.nih.gov,False,
+https://beian.miit.gov.cn,False,
+https://archive.org,False,
+https://theguardian.com,True,"yes, i’m happy"
+https://t.me,False,
+https://creativecommons.org,False,
+https://cloudflare.com,True,"accept all cookies"
+https://sourceforge.net,True,"i accept"
+https://cnn.com,True,"accept all"
+https://dropbox.com,True,"accept all"
+https://wa.me,False,
+https://open.spotify.com,True,"cookies akzeptieren"
+https://wixsite.com,False,
+https://who.int,False,
+https://paypal.com,True,"akzeptieren"
+https://bbc.co.uk,True,"yes, i agree"
+https://office.com,True,"accept"
+https://m.facebook.com,True,"allow essential and optional cookies"
+https://issuu.com,True,"allow cookies"
+https://weebly.com,True,"accept all cookies"
+https://sciencedirect.com,False,
+https://cdc.gov,False,
+https://bbc.com,True,"yes, i agree"
+https://vk.com,False,
+https://tiktok.com,False,
+https://httpd.apache.org,False,
+https://tinyurl.com,True,"agree"
+https://accounts.google.com,False,
+https://nginx.org,False,
+https://opera.com,False,
+https://reuters.com,True,"accept all"
+https://web.archive.org,False,
+https://washingtonpost.com,True,"i accept"
+https://oracle.com,True,"accept all"
+https://live.com,False,
+https://youtube-nocookie.com,False,
+https://bloomberg.com,False,
+https://harvard.edu,False,
+https://imdb.com,False,
+https://php.net,False,
+https://nginx.com,False,
+https://mit.edu,False,
+https://doi.org,False,
+https://wsj.com,False,
+https://wikimedia.org,False,
+https://weibo.com,False,
+https://bing.com,True,"accept"
+https://businessinsider.com,False,
+https://gnu.org,False,
+https://wiley.com,False,
+https://nature.com,True,"accept all cookies"
+https://un.org,False,
+https://msn.com,True,"akzeptieren"
+https://stanford.edu,False,
+https://researchgate.net,True,"agree"
+https://ibm.com,True,"alle akzeptieren"
+https://list-manage.com,False,
+https://wpa.qq.com,False,
+https://springer.com,True,"accept all cookies"
+https://wp.com,True,"accept all"
+https://slideshare.net,False,
+https://wix.com,True,"accept"
+https://cpanel.net,True,"allow all"
+https://nasa.gov,False,
+https://go.com,False,
+https://cnbc.com,True,"i accept"
+https://time.com,True,"i accept"
+https://outlook.com,False,
+https://eventbrite.com,True,"accept cookies"
+https://dailymail.co.uk,True,"got it"
+https://www.gov.uk,False,
+https://telegraph.co.uk,True,"accept"
+https://g.page,True,"ok"
+https://mp.weixin.qq.com,False,
+https://usatoday.com,True,"accept all"
+https://cnet.com,True,"accept all"
+https://npr.org,True,"accept all"
+https://wired.com,True,"i accept"
+https://ted.com,True,"accept"
+https://surveymonkey.com,True,"accept all cookies"
+https://cloudfront.net,False,
+https://blogger.com,False,
+https://amzn.to,False,
+https://shopify.com,True,"ok"
+https://ebay.com,False,
+https://addtoany.com,False,
+https://beian.gov.cn,False,
+https://hp.com,True,"zustimmen"
+https://mysql.com,True,"accept all"
+https://unsplash.com,False,
+https://i0.wp.com,False,
+https://statista.com,True,"allow all"
+https://myspace.com,False,
+https://bp.blogspot.com,False,
+https://googleusercontent.com,False,
+https://loc.gov,False,
+https://berkeley.edu,False,
+https://independent.co.uk,False,
+https://commons.wikimedia.org,False,
+https://validator.w3.org,False,
+https://huffingtonpost.com,True,"agree & exit"
+https://gc.ca,False,
+https://mail.google.com,False,
+https://techcrunch.com,True,"accept all"
+https://us02web.zoom.us,True,"accept cookies"
+https://etsy.com,True,"accept"
+https://domainmarket.com,False,
+https://debian.org,False,
+https://webmd.com,False,
+https://ft.com,True,"accept & continue"
+https://behance.net,True,"enable all"
+https://amazon.co.uk,False,
+https://ietf.org,False,
+https://imgur.com,True,"agree"
+https://latimes.com,False,
+https://cbsnews.com,True,"accept all"
+https://prnewswire.com,True,"accept all cookies"
+https://washington.edu,True,"yes, i agree"
+https://sina.com.cn,False,
+https://themeforest.net,True,"ok"
+https://free.fr,True,"agree and close"
+https://twitch.tv,True,"accept cookies"
+https://yelp.com,True,"alle cookies zulassen"
+https://cornell.edu,False,
+https://theverge.com,True,"i accept"
+https://aboutads.info,False,
+https://oup.com,False,
+https://hugedomains.com,False,
+https://dailymotion.com,False,
+https://ca.gov,False,
+https://stackoverflow.com,True,"accept all cookies"
+https://linktr.ee,True,"accept"
+https://fda.gov,False,
+https://nationalgeographic.com,True,"i accept"
+https://baike.baidu.com,False,
+https://mailchimp.com,True,"accept all cookies"
+https://tandfonline.com,True,"accept"
+https://theatlantic.com,True,"i accept"
+https://squarespace.com,True,"accept"
+https://s3.amazonaws.com,True,"accept all cookies"
+https://goodreads.com,False,
+https://huffpost.com,True,"agree & exit"
+https://princeton.edu,False,
+https://google.de,True,"alle akzeptieren"
+https://launchpad.net,False,
+https://samsung.com,True,"alle akzeptieren"
+https://mailchi.mp,True,"accept all cookies"
+https://tripadvisor.com,True,"i accept"
+https://kickstarter.com,False,
+https://telegram.me,False,
+https://bitly.com,True,"got it"
+https://line.me,False,
+https://sagepub.com,True,"close"
+https://statcounter.com,False,
+https://hbr.org,True,"consent"
+https://youku.com,False,
+https://scribd.com,False,
+https://hubspot.com,True,"allow cookies"
+https://myshopify.com,False,
+https://nbcnews.com,True,"continue"
+https://livejournal.com,False,
+https://forms.office.com,False,
+https://google.co.uk,True,"alle akzeptieren"
+https://fb.com,True,"allow essential and optional cookies"
+https://unesco.org,False,
+https://networkadvertising.org,False,
+https://whitehouse.gov,False,
+https://aws.amazon.com,True,"accept all cookies"
+https://allaboutcookies.org,False,
+https://business.site,True,"ok"
+https://skype.com,True,"accept"
+https://bandcamp.com,False,
+https://britannica.com,True,"accept all"
+https://sitemaps.org,False,
+https://163.com,False,
+https://investopedia.com,True,"accept all"
+https://pixabay.com,True,"accept all cookies"
+https://businesswire.com,True,"accept all cookies"
+https://fb.me,True,"allow essential and optional cookies"
+https://netflix.com,True,"accept"
+https://usda.gov,False,
+https://change.org,True,"cookies akzeptieren"
+https://iso.org,False,
+https://taobao.com,False,
+https://quora.com,False,
+https://usnews.com,False,
+https://economist.com,True,"accept all"
+https://epa.gov,False,
+https://1.bp.blogspot.com,False,
+https://dx.doi.org,False,
+https://marriott.com,True,"accept all"
+https://redhat.com,False,
+https://foxnews.com,False,
+https://about.com,False,
+https://healthline.com,True,"accept and continue to site"
+https://akismet.com,True,"got it"
+https://worldbank.org,False,
+https://rfc-editor.org,False,
+https://pbs.org,False,
+https://discord.gg,True,"accept all cookies"
+https://cambridge.org,True,"accept all cookies"
+https://xinhuanet.com,False,
+https://de.wikipedia.org,False,
+https://buzzfeed.com,True,"agree & exit"
+https://eepurl.com,False,
+https://typepad.com,True,"got it"
+https://sciencemag.org,False,
+https://indiatimes.com,True,"agree & continue"
+https://booking.com,True,"accept"
+https://umich.edu,True,"allow cookies"
+https://columbia.edu,False,
+https://aol.com,True,"accept all"
+https://translate.google.com,True,"accept all"
+https://msdn.microsoft.com,True,"accept"
+https://sciencedaily.com,True,"agree"
+https://mayoclinic.org,False,
+https://yale.edu,False,
+https://digg.com,False,
+https://vice.com,True,"ich stimme zu"
+https://state.gov,False,
+https://jimdo.com,False,
+https://noaa.gov,False,
+https://sedo.com,True,"alle auswählen"
+https://deviantart.com,True,"accept"
+https://sharepoint.com,True,"annehmen"
+https://psu.edu,False,
+https://academia.edu,False,
+https://gouv.fr,False,
+https://psychologytoday.com,True,"ok"
+https://plos.org,True,"accept all cookies"
+https://wikihow.com,False,
+https://zdnet.com,True,"accept all"
+https://cbc.ca,False,
+https://mashable.com,True,"i accept"
+https://cisco.com,True,"accept"
+https://upenn.edu,False,
+https://theconversation.com,True,"accept all cookies"
+https://fortune.com,True,"accept all"
+https://weforum.org,True,"accept all cookies"
+https://marketwatch.com,False,
+https://giphy.com,True,"agree and close"
+https://sohu.com,False,
+https://deloitte.com,True,"alle cookies akzeptieren"
+https://bmj.com,True,"i accept"
+https://jotform.com,True,"allow all"
+https://dribbble.com,False,
+https://arcgis.com,False,
+https://outlook.live.com,False,
+https://calendly.com,True,"accept cookies"
+https://zendesk.com,True,"alle akzeptieren"
+https://intel.com,False,
+https://fastcompany.com,False,
+https://nypost.com,True,"allow all"
+https://ox.ac.uk,False,
+https://mckinsey.com,True,"accept all cookies"
+https://ieee.org,True,"accept & close"
+https://3.bp.blogspot.com,False,
+https://fandom.com,False,
+https://4.bp.blogspot.com,False,
+https://2.bp.blogspot.com,False,
+https://abc.net.au,True,"accept all cookies"
+https://youronlinechoices.com,False,
+https://biomedcentral.com,True,"accept all cookies"
+https://feedburner.com,False,
+https://sun.com,True,"accept all"
+https://vox.com,True,"i accept"
+https://godaddy.com,False,
+https://plesk.com,True,"allow all cookies"
+https://yandex.ru,False,
+https://newyorker.com,True,"i accept"
+https://or.kr,False,
+https://apa.org,False,
+https://gofundme.com,True,"accept all cookies"
+https://uci.edu,False,
+https://disqus.com,False,
+https://pewresearch.org,False,
+https://wpengine.com,False,
+https://umn.edu,False,
+https://geocities.com,False,
+https://ubuntu.com,False,
+https://oreilly.com,True,"accept"
+https://inc.com,False,
+https://indeed.com,True,"alle cookies akzeptieren"
+https://android.com,True,"ok"
+https://tripod.com,False,
+https://arxiv.org,False,
+https://stumbleupon.com,False,
+https://web.whatsapp.com,False,
+https://wisc.edu,True,"got it"
+https://example.com,False,
+https://typeform.com,True,"accept all cookies"
+https://addthis.com,True,"i accept all cookies"
+https://canva.com,False,
+https://alibaba.com,False,
+https://oecd.org,False,
+https://apnews.com,False,
+https://newsweek.com,True,"allow"
+https://aliyun.com,True,"accept"
+https://webs.com,False,
+https://yayoye-spiele.com,False,
+https://cam.ac.uk,False,
+https://gizmodo.com,True,"accept"
+https://enable-javascript.com,False,
+https://engadget.com,True,"accept all"
+https://steampowered.com,False,
+https://science.org,False,
+https://xing.com,True,"accept"
+https://amazon.de,False,
+https://guardian.co.uk,True,"yes, i’m happy"
+https://scientificamerican.com,True,"accept all cookies"
+https://entrepreneur.com,True,"consent"
+https://feeds.feedburner.com,False,
+https://dev.mysql.com,True,"accept all"
+https://scholar.google.com,False,
+https://dell.com,False,
+https://elsevier.com,True,"accept all cookies"
+https://constantcontact.com,True,"got it"
+https://merriam-webster.com,True,"accept all"
+https://jhu.edu,False,
+https://dw.com,False,
+https://people.com.cn,False,
+https://arnebrachhold.de,False,
+https://ftc.gov,False,
+https://mdpi.com,False,
+https://trustpilot.com,True,"ok"
+https://docker.com,True,"accept all cookies"
+https://meetup.com,True,"accept"
+https://fb.watch,False,
+https://ucla.edu,True,"i accept"
+https://intuit.com,False,
+https://cmu.edu,False,
+https://thelancet.com,True,"accept all cookies"
+https://utexas.edu,False,
+https://pnas.org,True,"continue"
+https://patreon.com,True,"accept all"
+https://readthedocs.io,False,
+https://fao.org,False,
+https://discord.com,True,"accept all cookies"
+https://nps.gov,False,
+https://frontiersin.org,True,"allow all"
+https://jigsaw.w3.org,False,
+https://pexels.com,False,
+https://openstreetmap.org,False,
+https://irs.gov,False,
+https://elegantthemes.com,True,"ok"
+https://uchicago.edu,False,
+https://googleapis.com,False,
+https://photobucket.com,True,"got it"
+https://ed.gov,False,
+https://python.org,False,
+https://salesforce.com,True,"accept all cookies"
+https://anchor.fm,False,
+https://stripe.com,True,"alle akzeptieren"
+https://gitlab.com,True,"accept all cookies"
+https://help.opera.com,False,
+https://arstechnica.com,False,
+https://aboutcookies.org,True,"accept all"
+https://jstor.org,True,"accept cookies"
+https://uk.com,False,
+https://form.jotform.com,True,"allow all"
+https://wiktionary.org,False,
+https://si.edu,False,
+https://azurewebsites.net,False,
+https://bilibili.com,False,
+https://slate.com,True,"i accept"
+https://house.gov,False,
+https://huawei.com,False,
+https://walmart.com,False,
+https://jamanetwork.com,True,"continue"
+https://fc2.com,True,"i agree"
+https://bizjournals.com,False,
+https://go.id,False,
+https://miitbeian.gov.cn,False,
+https://sfgate.com,True,"select all"
+https://uiuc.edu,False,
+https://google.ca,True,"alle akzeptieren"
+https://indiegogo.com,False,
+https://chicagotribune.com,False,
+https://bls.gov,False,
+https://ikea.com,False,
+https://census.gov,False,
+https://qz.com,True,"accept"
+https://microsoftonline.com,False,
+https://doubleclick.net,False,
+https://gartner.com,True,"accept all"
+https://yahoo.co.jp,False,
+https://acs.org,False,
+https://bbb.org,False,
+https://medicalnewstoday.com,True,"accept and continue to site"
+https://box.com,True,"close"
+https://wikia.com,False,
+https://i.imgur.com,True,"agree"
+https://gotowebinar.com,True,"accept all"
+https://livescience.com,True,"agree"
+https://trello.com,True,"accept cookies"
+https://mirror.co.uk,True,"i accept"
+https://eff.org,False,
+https://gob.mx,False,
+https://hilton.com,False,
+https://hhs.gov,True,"close"
+https://senate.gov,False,
+https://howstuffworks.com,True,"i accept"
+https://cdn.shopify.com,False,
+https://nist.gov,False,
+https://qc.ca,False,
+https://thesun.co.uk,False,
+https://go.th,False,
+https://netscape.com,True,"accept all"
+https://usgs.gov,True,"close"
+https://themeisle.com,True,"accept"
+https://postgresql.org,False,
+https://in.ua,False,
+https://vkontakte.ru,False,
+https://thetimes.co.uk,False,
+https://globenewswire.com,False,
+https://nyu.edu,False,
+https://aliexpress.com,True,"cookies akzeptieren"
+https://unicef.org,False,
+https://appspot.com,False,
+https://withgoogle.com,True,"alle akzeptieren"
+https://getpocket.com,True,"accept"
+https://google.co.jp,True,"alle akzeptieren"
+https://purdue.edu,False,
+https://google.es,True,"alle akzeptieren"
+https://variety.com,True,"accept all"
+https://barnesandnoble.com,False,
+https://govt.nz,False,
+https://elpais.com,True,"accept"
+https://spiegel.de,False,
+https://kiev.ua,False,
+https://nejm.org,False,
+https://politico.com,True,"i accept"
+https://mitre.org,True,"accept all cookies"
+https://teamviewer.com,True,"accept all cookies"
+https://perfectdomain.com,False,
+https://googleblog.com,True,"ok"
+https://freepik.com,True,"i accept"
+https://usc.edu,True,"ok"
+https://on.ca,False,
+https://rollingstone.com,True,"accept all"
+https://shutterstock.com,True,"accept all cookies"
+https://stackexchange.com,False,
+https://sec.gov,False,
+https://slack.com,True,"accept all cookies"
+https://nvidia.com,True,"cookies akzeptieren"
+https://matterport.com,True,"alle akzeptieren"
+https://windows.net,False,
+https://smh.com.au,False,
+https://aljazeera.com,True,"allow all"
+https://itu.int,False,
+https://so.com,False,
+https://coursera.org,True,"accept all"
+https://altervista.org,True,"i accept"
+https://google.fr,True,"alle akzeptieren"
+https://rt.com,False,
+https://w3schools.com,False,
+https://force.com,True,"accept all cookies"
+https://pcmag.com,True,"i accept"
+https://m.me,True,"allow essential and optional cookies"
+https://venturebeat.com,True,"accept all"
+https://www.nhs.uk,True,"i'm ok with analytics cookies"
+https://ilias.ca,False,
+https://kernel.org,False,
+https://techtarget.com,True,"accept all"
+https://jd.com,False,
+https://google.it,True,"alle akzeptieren"
+https://evernote.com,True,"ok"
+https://news.google.com,True,"accept all"
+https://outlook.office.com,False,
+https://earthlink.net,False,
+https://vmware.com,True,"accept all cookies"
+https://chinadaily.com.cn,False,
+https://cutt.ly,True,"accept all"
+https://ssrn.com,True,"accept all cookies"
+https://newscientist.com,True,"i accept"
+https://duke.edu,True,"i accept"
+https://espn.com,True,"i accept"
+https://airbnb.com,False,
+https://mediafire.com,True,"consent"
+https://ucsd.edu,False,
+https://amazon.co.jp,False,
+https://admin.ch,False,
+https://getbootstrap.com,False,
+https://proofpoint.com,False,
+https://mystrikingly.com,False,
+https://acm.org,True,"allow all cookies"
+https://ufl.edu,False,
+https://bitnami.com,True,"accept all cookies"
+https://history.com,False,
+https://msu.edu,False,
+https://timeanddate.com,True,"agree"
+https://openssl.org,False,
+https://scmp.com,True,"accept"
+https://canada.ca,False,
+https://sky.com,True,"agree"
+https://archives.gov,False,
+https://ny.gov,False,
+https://unc.edu,False,
+https://moodle.org,True,"continue"
+https://umd.edu,False,
+https://cbslocal.com,True,"accept all"
+https://express.co.uk,True,"i accept"
+https://aol.co.uk,True,"accept all"
+https://theglobeandmail.com,False,
+https://gallup.com,True,"accept all"
+https://nydailynews.com,False,
+https://slashdot.org,True,"i accept"
+https://freebsd.org,False,
+https://service.gov.uk,False,
+https://thoughtco.com,True,"accept cookies"
+https://thehill.com,False,
+https://cloud.google.com,True,"ok"
+https://mixcloud.com,False,
+https://iana.org,False,
+https://hollywoodreporter.com,True,"accept all"
+https://blogspot.co.uk,True,"alle akzeptieren"
+https://drupal.org,False,
+https://pwc.com,False,
+https://substack.com,False,
+https://justice.gov,False,
+https://illinois.edu,False,
+https://naver.com,False,
+https://hatena.ne.jp,False,
+https://parallels.com,True,"alle cookies akzeptieren"
+https://ok.ru,True,"accept all"
+https://icann.org,False,
+https://smithsonianmag.com,True,"i accept"
+https://chron.com,True,"select all"
+https://northwestern.edu,False,
+https://dictionary.com,True,"accept all cookies"
+https://arizona.edu,False,
+https://apachefriends.org,False,
+https://privacyshield.gov,False,
+https://vic.gov.au,True,"close"
+https://cookiedatabase.org,True,"accept"
+https://utoronto.ca,False,
+https://www.gov.cn,False,
+https://about.me,True,"got it"
+https://siemens.com,False,
+https://dot.gov,False,
+https://techradar.com,True,"zustimmen"
+https://ucdavis.edu,False,
+https://today.com,False,
+https://ning.com,True,"accept"
+https://phys.org,True,"ok"
+https://thenai.org,False,
+https://lifehacker.com,True,"accept"
+https://amazon-adsystem.com,False,
+https://ico.org.uk,True,"accept all cookies"
+https://us.com,False,
+https://weather.com,True,"agree and proceed"
+https://congress.gov,False,
+https://sakura.ne.jp,False,
+https://atlassian.com,True,"accept all cookies"
+https://lww.com,True,"got it, thanks"
+https://ru.wikipedia.org,False,
+https://webex.com,True,"accept"
+https://fool.com,True,"accept all cookies"
+https://bigcartel.com,False,
+https://nike.com,True,"ja, ich stimme zu"
+https://news.com.au,False,
+https://metro.co.uk,True,"got it"
+https://asu.edu,True,"ok, i agree"
+https://technologyreview.com,True,"accept all cookies"
+https://zhihu.com,False,
+https://instructables.com,False,
+https://fcc.gov,False,
+https://nikkei.com,False,
+https://java.com,False,
+https://mozilla.com,False,
+https://joomla.org,False,
+https://fbcdn.net,True,"allow essential and optional cookies"
+https://euronews.com,True,"agree and close"
+https://udemy.com,False,
+https://woocommerce.com,True,"accept all"
+https://nymag.com,False,
+https://lemonde.fr,True,"accepter et continuer"
+https://angelfire.com,False,
+https://libsyn.com,False,
+https://energy.gov,False,
+https://thedailybeast.com,True,"accept all cookies"
+https://wa.gov,False,
+https://go.kr,False,
+https://colorado.edu,False,
+https://dmoz.org,False,
+https://office365.com,True,"annehmen"
+https://jquery.com,False,
+https://snapchat.com,True,"accept all"
+https://brookings.edu,True,"close"
+https://imageshack.us,False,
+https://imf.org,False,
+https://qualtrics.com,True,"accept all"
+https://cancer.org,True,"accept cookies"
+https://kde.org,False,
+https://miibeian.gov.cn,False,
+https://automattic.com,True,"got it"
+https://dropcatch.com,False,
+https://rutgers.edu,False,
+https://digitaltrends.com,True,"i accept"
+https://bund.de,True,"close"
+https://uspto.gov,False,
+https://ubc.ca,False,
+https://boston.com,True,"accept all cookies"
+https://osu.edu,True,"accept all cookies"
+https://playstation.com,True,"accept"
+https://virginia.edu,False,
+https://treasury.gov,False,
+https://prezi.com,True,"accept all cookies"
+https://perl.org,False,
+https://fbi.gov,False,
+https://moz.com,True,"i accept"
+https://ign.com,True,"zustimmen"
+https://tmall.com,False,
+https://faqs.org,False,
+https://ucl.ac.uk,False,
+https://verisign.com,True,"accept all cookies"
+https://google.co.in,True,"alle akzeptieren"
+https://fedoraproject.org,False,
+https://ow.ly,False,
+https://wufoo.com,True,"accept all cookies"
+https://music.apple.com,True,"continue"
+https://usa.gov,False,
+https://bc.ca,False,
+https://zend.com,True,"accept all cookies"
+https://telegra.ph,False,
+https://nsw.gov.au,False,
+https://foursquare.com,True,"accept all cookies"
+https://theregister.com,False,
+https://people.com,True,"accept cookies"
+https://twimg.com,False,
+https://target.com,False,
+https://uber.com,True,"accept"
+https://prweb.com,True,"accept all cookies"
+https://opensource.org,False,
+https://nasdaq.com,True,"i accept"
+https://lnkd.in,True,"accept"
+https://herokuapp.com,True,"accept all cookies"
+https://yolasite.com,False,
+https://bu.edu,False,
+https://podbean.com,True,"ok"
+https://mail.ru,True,"accept"
+https://is.gd,False,
+https://pinterest.ca,False,
+https://gutenberg.org,False,
+https://cpanel.com,True,"allow all"
+https://thefreedictionary.com,False,
+https://tamu.edu,False,
+https://over-blog.com,False,
+https://schneier.com,False,
+https://microfocus.com,True,"accept all"
+https://sap.com,True,"accept cookies"
+https://rakuten.co.jp,False,
+https://army.mil,False,
+https://cell.com,True,"accept all cookies"
+https://urbandictionary.com,True,"i accept"
+https://att.com,False,
+https://medlineplus.gov,False,
+https://khanacademy.org,False,
+https://va.gov,False,
+https://heart.org,False,
+https://accenture.com,True,"alle cookies zulassen"
+https://letsencrypt.org,False,
+https://blog.google,True,"ok"
+https://duckduckgo.com,False,
+https://paypal.me,True,"akzeptieren"
+https://dol.gov,False,
+https://g.co,False,
+https://digital.com,False,
+https://dhs.gov,False,
+https://cctv.com,False,
+https://rs6.net,False,
+https://uol.com.br,True,"ok"
+https://amazon.ca,False,
+https://medscape.com,True,"i accept"
+https://cpan.org,False,
+https://mlb.com,True,"accept all cookies"
+https://salon.com,True,"consent"
+https://ey.com,False,
+https://novell.com,True,"accept all"
+https://fiverr.com,False,
+https://bostonglobe.com,False,
+https://google.com.au,True,"alle akzeptieren"
+https://lenovo.com,True,"cookies akzeptieren"
+https://usembassy.gov,False,
+https://thenextweb.com,True,"accept & continue"
+https://adweek.com,True,"allow all"
+https://symantec.com,True,"accept cookies"
+https://hootsuite.com,False,
+https://gob.es,False,
+https://themegrill.com,False,
+https://eurekalert.org,False,
+https://mapquest.com,False,
+https://insider.com,False,
+https://gmail.com,False,
+https://lonelyplanet.com,True,"accept cookies"
+https://wustl.edu,False,
+https://flic.kr,False,
+https://google.cn,False,
+https://undp.org,False,
+https://cygwin.com,False,
+https://nba.com,True,"i accept"
+https://semanticscholar.org,True,"accept & continue"
+https://ndtv.com,False,
+https://web.dev,True,"ok"
+https://livestream.com,True,"ok"
+https://ethz.ch,False,
+https://wp.me,True,"accept all"
+https://icio.us,False,
+https://greenpeace.org,False,
+https://haxx.se,False,
+https://vanityfair.com,True,"i accept"
+https://cancer.gov,False,
+https://thestar.com,False,
+https://houzz.com,True,"annehmen"
+https://gamespot.com,True,"accept"
+https://steamcommunity.com,False,
+https://consumerreports.org,True,"allow all"
+https://globo.com,True,"prosseguir"
+https://ilo.org,False,
+https://autodesk.com,False,
+https://voanews.com,False,
+https://texas.gov,False,
+https://del.icio.us,False,
+https://spb.ru,False,
+https://crunchbase.com,False,
+https://coe.int,True,"accept cookies"
+https://ea.com,True,"agree"
+https://ustream.tv,True,"alle akzeptieren"
+https://it.wikipedia.org,False,
+https://ncsu.edu,False,
+https://nokia.com,False,
+https://discovery.com,True,"i accept"
+https://nyc.gov,False,
+https://google.ru,True,"alle akzeptieren"
+https://500px.com,False,
+https://jpost.com,False,
+https://indiana.edu,False,
+https://iheart.com,False,
+https://iop.org,True,"accept cookies"
+https://bitbucket.org,True,"accept all cookies"
+https://zoho.com,False,
+https://navy.mil,False,
+https://eventbrite.co.uk,True,"accept cookies"
+https://thebalancemoney.com,True,"accept all"
+https://vogue.com,True,"akzeptieren"
+https://netdna-ssl.com,False,
+https://last.fm,True,"accept all"
+https://utah.edu,False,
+https://tencent.com,False,
+https://mercurynews.com,False,
+https://pcworld.com,True,"i agree"
+https://garmin.com,True,"akzeptieren"
+https://xbox.com,True,"accept"
+https://sba.gov,False,
+https://hyatt.com,False,
+https://fifa.com,True,"i'm ok with that"
+https://france24.com,True,"accept"
+https://pitt.edu,False,
+https://git-scm.com,False,
+https://youronlinechoices.eu,False,
+https://aarp.org,False,
+https://businessweek.com,False,
+https://computerworld.com,True,"i agree"
+https://amazon.fr,False,
+https://com.com,False,
+https://alexa.com,False,
+https://verizon.com,False,
+https://usps.com,False,
+https://irishtimes.com,True,"i accept"
+https://jimdofree.com,False,
+https://pastebin.com,True,"agree"
+https://ebay.co.uk,False,
+https://liveabout.com,True,"accept cookies"
+https://billboard.com,True,"accept all"
+https://clevelandclinic.org,False,
+https://tufts.edu,True,"accept and continue"
+https://oxfordjournals.org,False,
+https://lego.com,True,"fortfahren"
+https://nobelprize.org,True,"i understand"
+https://ucsb.edu,False,
+https://globalnews.ca,True,"accept"
+https://google.nl,True,"alle akzeptieren"
+https://ed.ac.uk,False,
+https://seattletimes.com,False,
+https://broadcom.com,True,"accept cookies"
+https://ccc.de,False,
+https://seekingalpha.com,True,"accept all cookies"
+https://asus.com,False,
+https://ihg.com,False,
+https://openldap.org,False,
+https://lefigaro.fr,False,
+https://wunderground.com,True,"agree and proceed"
+https://glassdoor.com,True,"accept cookies"
+https://auctollo.com,False,
+https://wanwang.aliyun.com,False,
+https://hrw.org,True,"accept"
+https://georgetown.edu,False,
+https://craigslist.org,False,
+https://smugmug.com,True,"allow"
+https://douban.com,False,
+https://ameblo.jp,False,
+https://gv.at,False,
+https://patch.com,True,"i accept"
+https://ipcc.ch,False,
+https://accuweather.com,True,"consent"
+https://hawaii.edu,False,
+https://standard.co.uk,False,
+https://colorlib.com,False,
+https://speedtest.net,True,"i accept"
+https://securityfocus.com,False,
+https://caniuse.com,False,
+https://esquire.com,True,"accept"
+https://gob.ar,False,
+https://orcid.org,False,
+https://americanexpress.com,True,"akzeptieren"
+https://istockphoto.com,True,"allow all"
+https://feedly.com,False,
+https://huffingtonpost.co.uk,True,"agree & exit"
+https://deadline.com,True,"accept all"
+https://cia.gov,False,
+https://disney.com,True,"alle akzeptieren"
+https://theregister.co.uk,False,
+https://kaspersky.com,True,"allow all cookies"
+https://ohchr.org,False,
+https://ibb.co,False,
+https://lh3.googleusercontent.com,False,
+https://ups.com,True,"close"
+https://prestashop.com,False,
+https://osha.gov,False,
+https://zillow.com,False,
+https://accor.com,False,
+https://cosmopolitan.com,True,"accept"
+https://1drv.ms,False,
+https://snopes.com,True,"consent"
+https://findlaw.com,False,
+https://washingtontimes.com,False,
+https://axios.com,False,
+https://fedex.com,False,
+https://ctvnews.ca,False,
+https://bestbuy.com,False,
+https://nic.in,False,
+https://hubpages.com,True,"accept"
+https://sony.com,False,
+https://360.cn,False,
+https://nhk.or.jp,False,
+https://verywellmind.com,True,"accept all"
+https://list-manage1.com,False,
+https://mi.com,True,"alle akzeptieren"
+https://phpbb.com,False,
+https://vt.edu,False,
+https://visualstudio.com,True,"accept"
+https://amd.com,True,"alle cookies akzeptieren"
+https://space.com,True,"agree"
+https://udel.edu,False,
+https://redcross.org,False,
+https://answers.com,True,"i accept"
+https://gettyimages.com,True,"accept"
+https://searchenginejournal.com,False,
+https://mpg.de,False,
+https://foxbusiness.com,False,
+https://perl.com,False,
+https://miamiherald.com,False,
+https://widgets.wp.com,True,"accept all"
+https://narod.ru,False,
+https://goodhousekeeping.com,True,"accept"
+https://caltech.edu,False,
+https://indianexpress.com,False,
+https://lua.org,False,
+https://msnbc.com,False,
+https://clinicaltrials.gov,False,
+https://ap.org,True,"accept cookies"
+https://wetransfer.com,True,"i accept"
+https://brown.edu,False,
+https://trendmicro.com,True,"accept"
+https://isc.org,False,
+https://japantimes.co.jp,False,
+https://hindustantimes.com,False,
+https://esa.int,True,"accept all cookies"
+https://telegram.org,False,
+https://hopkinsmedicine.org,False,
+https://techrepublic.com,True,"agree"
+https://generatepress.com,False,
+https://tesla.com,False,
+https://worldometers.info,True,"got it"
+https://ibtimes.com,True,"accept all"
+https://fema.gov,False,
+https://wipo.int,False,
+https://timeout.com,True,"agree"
+https://nielsen.com,True,"accept all cookies"
+https://man7.org,False,
+https://or.id,False,
+https://bell-labs.com,False,
+https://unl.edu,False,
+https://gatech.edu,True,"accept"
+https://yumpu.com,True,"i accept"
+https://google.com.br,True,"alle akzeptieren"
+https://akamaihd.net,False,
+https://gumroad.com,False,
+https://scoop.it,True,"ok, accept all"
+https://redbull.com,True,"alle cookies akzeptieren"
+https://panasonic.com,True,"alle zulassen"
+https://china.com.cn,False,
+https://yp.to,False,
+https://pinterest.co.uk,False,
+https://csdn.net,False,
+https://nodejs.org,False,
+https://stitcher.com,False,
+https://imageshack.com,False,
+https://upwork.com,False,
+https://dropboxusercontent.com,False,
+https://pbase.com,False,
+https://metmuseum.org,False,
+https://foodnetwork.com,True,"i accept"
+https://vatican.va,False,
+https://weather.gov,False,
+https://cuny.edu,False,
+https://rottentomatoes.com,True,"i consent to cookies"
+https://ovhcloud.com,True,"akzeptieren"
+https://vanderbilt.edu,True,"accept"
+https://gimp.org,False,
+https://digitalocean.com,True,"accept all"
+https://oregonstate.edu,False,
+https://howtogeek.com,True,"agree"
+https://mcgill.ca,False,
+https://tableau.com,True,"accept all cookies"
+https://deezer.com,True,"accept"
+https://semrush.com,True,"allow all cookies"
+https://calameo.com,False,
+https://ssa.gov,False,
+https://apksupply.com,False,
+https://amnesty.org,True,"close"
+https://umass.edu,True,"accept and continue"
+https://diigo.com,False,
+https://tx.us,False,
+https://wireshark.org,False,
+https://welt.de,False,
+https://ampproject.org,True,"got it"
