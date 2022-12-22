@@ -1,0 +1,8 @@
+*.log
+*.out
+.*
+!/.gitignore
+data/raw
+assets/
+lists/block
+__pycache__
