@@ -1,0 +1,6656 @@
+[
+    {
+        "urls": [
+            {
+                "url": "google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "facebook.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "youtube.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "twitter.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "instagram.com",
+                "categoryNames": [
+                    "Social Networking",
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "linkedin.com",
+                "categoryNames": [
+                    "Professional Networking"
+                ]
+            },
+            {
+                "url": "apple.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "microsoft.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "wordpress.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "googletagmanager.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Business"
+                ]
+            },
+            {
+                "url": "youtu.be",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "en.wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "pinterest.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "play.google.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "vimeo.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "github.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "plus.google.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "maps.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Education"
+                ]
+            },
+            {
+                "url": "goo.gl",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bit.ly",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "adobe.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wordpress.com",
+                "categoryNames": [
+                    "Personal Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "docs.google.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "blogspot.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "itunes.apple.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "player.vimeo.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "amazon.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "macromedia.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mozilla.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "apps.apple.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "drive.google.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "yahoo.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "download.macromedia.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "tumblr.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "whatsapp.com",
+                "categoryNames": [
+                    "Instant Messaging",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "europa.eu",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "flickr.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "api.whatsapp.com",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "reddit.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "gravatar.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nih.gov",
+                "categoryNames": [
+                    "Government",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "nytimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "qq.com",
+                "categoryNames": [
+                    "News",
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "apache.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "amazonaws.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sites.google.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "github.io",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "policies.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "soundcloud.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "w3.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "t.co",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "medium.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "forbes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "support.apple.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ec.europa.eu",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "go.microsoft.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "zoom.us",
+                "categoryNames": [
+                    "Web Meetings"
+                ]
+            },
+            {
+                "url": "forms.gle",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "miit.gov.cn",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "spotify.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "www.ncbi.nlm.nih.gov",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "baidu.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "theguardian.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "sourceforge.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "archive.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "creativecommons.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cnn.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "dropbox.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "beian.miit.gov.cn",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "t.me",
+                "categoryNames": [
+                    "Chat",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "who.int",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "wixsite.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bbc.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "paypal.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "vk.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "wa.me",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "issuu.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "weebly.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "l.facebook.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "cdc.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "bbc.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "cloudflare.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "httpd.apache.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sciencedirect.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "tinyurl.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "office.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "reuters.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "oracle.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "opera.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "washingtonpost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "accounts.google.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "web.archive.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "youtube-nocookie.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "nginx.org",
+                "categoryNames": [
+                    "Download Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bloomberg.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "php.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "harvard.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "imdb.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "wsj.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "mit.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "wikimedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "tiktok.com",
+                "categoryNames": [
+                    "Social Networking",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "doi.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "weibo.com",
+                "categoryNames": [
+                    "News",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "nginx.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wiley.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Education"
+                ]
+            },
+            {
+                "url": "businessinsider.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "gnu.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "msn.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "bing.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "nature.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "un.org",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "stanford.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "live.com",
+                "categoryNames": [
+                    "Web-based Email",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ibm.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "list-manage.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "researchgate.net",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "slideshare.net",
+                "categoryNames": [
+                    "File Repository"
+                ]
+            },
+            {
+                "url": "wp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "springer.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Education"
+                ]
+            },
+            {
+                "url": "nasa.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "wix.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "w.soundcloud.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "go.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "wpa.qq.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "cpanel.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cnbc.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "time.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "eventbrite.com",
+                "categoryNames": [
+                    "Business",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "telegraph.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "dailymail.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "www.gov.uk",
+                "categoryNames": [
+                    "Government",
+                    "Politics & Law"
+                ]
+            },
+            {
+                "url": "usatoday.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "outlook.com",
+                "categoryNames": [
+                    "Web-based Email"
+                ]
+            },
+            {
+                "url": "cnet.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "npr.org",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "chrome.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "ted.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Education"
+                ]
+            },
+            {
+                "url": "mp.weixin.qq.com",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "surveymonkey.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Business"
+                ]
+            },
+            {
+                "url": "g.page",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "wired.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cloudfront.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ebay.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "aol.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "addtoany.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mysql.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "hp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "myspace.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "amzn.to",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "blogger.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "i0.wp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bp.blogspot.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "loc.gov",
+                "categoryNames": [
+                    "Government",
+                    "Education"
+                ]
+            },
+            {
+                "url": "validator.w3.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "huffingtonpost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "berkeley.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "independent.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "commons.wikimedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "googleusercontent.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gc.ca",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "unsplash.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "techcrunch.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "statista.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "beian.gov.cn",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "etsy.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "debian.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ft.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "latimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "imgur.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "behance.net",
+                "categoryNames": [
+                    "Image Sharing",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "shopify.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ietf.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "washington.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "amazon.co.uk",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "webmd.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "prnewswire.com",
+                "categoryNames": [
+                    "News",
+                    "Business"
+                ]
+            },
+            {
+                "url": "themeforest.net",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "yelp.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Business"
+                ]
+            },
+            {
+                "url": "free.fr",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cbsnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "theverge.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "dailymotion.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "cornell.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "sina.com.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "twitch.tv",
+                "categoryNames": [
+                    "Games",
+                    "Streaming Media & Downloads",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "ca.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "domainmarket.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nationalgeographic.com",
+                "categoryNames": [
+                    "News",
+                    "Nature & Conservation"
+                ]
+            },
+            {
+                "url": "fda.gov",
+                "categoryNames": [
+                    "Government",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "stackoverflow.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "bitly.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "theatlantic.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "aboutads.info",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "mailchimp.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "oup.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "tandfonline.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "goodreads.com",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "squarespace.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "huffpost.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "princeton.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "kickstarter.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "launchpad.net",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "samsung.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sitemaps.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "tripadvisor.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "eur-lex.europa.eu",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "scribd.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "google.de",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "mailchi.mp",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "hugedomains.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sagepub.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "livejournal.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "hbr.org",
+                "categoryNames": [
+                    "Business",
+                    "Education"
+                ]
+            },
+            {
+                "url": "fb.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "youku.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "hubspot.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "nbcnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "statcounter.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "arnebrachhold.de",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "google.co.uk",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "linktr.ee",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "unesco.org",
+                "categoryNames": [
+                    "Government",
+                    "Education"
+                ]
+            },
+            {
+                "url": "line.me",
+                "categoryNames": [
+                    "Chat",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "skype.com",
+                "categoryNames": [
+                    "Web Phone"
+                ]
+            },
+            {
+                "url": "telegram.me",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "whitehouse.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "myshopify.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "usda.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "business.site",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "allaboutcookies.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "businesswire.com",
+                "categoryNames": [
+                    "News",
+                    "Business"
+                ]
+            },
+            {
+                "url": "networkadvertising.org",
+                "categoryNames": [
+                    "Non-profits & NGOs",
+                    "Business"
+                ]
+            },
+            {
+                "url": "163.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "usnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "change.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "bandcamp.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "netflix.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "britannica.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "fb.me",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "economist.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "taobao.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "epa.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "pixabay.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "iso.org",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "foxnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "about.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Education"
+                ]
+            },
+            {
+                "url": "marriott.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "redhat.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "investopedia.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "quora.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "xinhuanet.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "1.bp.blogspot.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "pbs.org",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "akismet.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sciencemag.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "dx.doi.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "worldbank.org",
+                "categoryNames": [
+                    "Finance",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "typepad.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "umich.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "cambridge.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "columbia.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "booking.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "buzzfeed.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "indiatimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "eepurl.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "digg.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "healthline.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "jimdo.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "sciencedaily.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "translate.google.com",
+                "categoryNames": [
+                    "Translators"
+                ]
+            },
+            {
+                "url": "mayoclinic.org",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "yale.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "state.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "zdnet.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "deviantart.com",
+                "categoryNames": [
+                    "Image Sharing",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "discord.gg",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "noaa.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "vice.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "marketwatch.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "psu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "cisco.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gouv.fr",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "mashable.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "upenn.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "cbc.ca",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "web.facebook.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "plos.org",
+                "categoryNames": [
+                    "Non-profits & NGOs",
+                    "Education"
+                ]
+            },
+            {
+                "url": "bmj.com",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Education"
+                ]
+            },
+            {
+                "url": "academia.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "giphy.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "zendesk.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "vox.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "fortune.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "arcgis.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "psychologytoday.com",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "weforum.org",
+                "categoryNames": [
+                    "Finance",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "sohu.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "deloitte.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "ox.ac.uk",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "theconversation.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "dribbble.com",
+                "categoryNames": [
+                    "File Repository",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sharepoint.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wikihow.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "intel.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sun.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nypost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "fastcompany.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "feedburner.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "yandex.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "ptinews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "abc.net.au",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ieee.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "biomedcentral.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "fandom.com",
+                "categoryNames": [
+                    "Forums & Newsgroups",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "gofundme.com",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "newyorker.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "plesk.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "mckinsey.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "2.bp.blogspot.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "wpengine.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "4.bp.blogspot.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "youronlinechoices.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "uci.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "android.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "inc.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "geocities.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "tripod.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "stumbleupon.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "oreilly.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "jotform.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wisc.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "umn.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "addthis.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "disqus.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "or.kr",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "apa.org",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "example.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "alibaba.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "webs.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ubuntu.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "godaddy.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "pewresearch.org",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "calendly.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "oecd.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "engadget.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "arxiv.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "typeform.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gizmodo.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "elsevier.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "apnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "newsweek.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "constantcontact.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "dell.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cam.ac.uk",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "guardian.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "indeed.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "entrepreneur.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "web.whatsapp.com",
+                "categoryNames": [
+                    "Instant Messaging"
+                ]
+            },
+            {
+                "url": "scientificamerican.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "jhu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "steampowered.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "dev.mysql.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "canva.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "feeds.feedburner.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "amazon.de",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "merriam-webster.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ucla.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ftc.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "meetup.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "scholar.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Education"
+                ]
+            },
+            {
+                "url": "dw.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "xing.com",
+                "categoryNames": [
+                    "Professional Networking"
+                ]
+            },
+            {
+                "url": "people.com.cn",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "cmu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "aliyun.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "thelancet.com",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Education"
+                ]
+            },
+            {
+                "url": "utexas.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "intuit.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "nps.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "mummila.net",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "science.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "salesforce.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "fao.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "trustpilot.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "patreon.com",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "pnas.org",
+                "categoryNames": [
+                    "News",
+                    "Education"
+                ]
+            },
+            {
+                "url": "jigsaw.w3.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "uk.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "irs.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "mdpi.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "readthedocs.io",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "docker.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "elegantthemes.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ed.gov",
+                "categoryNames": [
+                    "Government",
+                    "Education"
+                ]
+            },
+            {
+                "url": "azurewebsites.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "uchicago.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "python.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "doubleclick.net",
+                "categoryNames": [
+                    "Business"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "photobucket.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "frontiersin.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "cpanel.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "openstreetmap.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "arstechnica.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "pexels.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "house.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "si.edu",
+                "categoryNames": [
+                    "Education",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "aboutcookies.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "fb.watch",
+                "categoryNames": [
+                    "Social Networking",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "googleapis.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bizjournals.com",
+                "categoryNames": [
+                    "News",
+                    "Business"
+                ]
+            },
+            {
+                "url": "slate.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "chicagotribune.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "jstor.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "anchor.fm",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "walmart.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "wiktionary.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "sfgate.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "gitlab.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bilibili.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "bbb.org",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Business"
+                ]
+            },
+            {
+                "url": "jamanetwork.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "uiuc.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "trello.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "indiegogo.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "google.ca",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "yahoo.co.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "miitbeian.gov.cn",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "qz.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "fc2.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bls.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ikea.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "gotowebinar.com",
+                "categoryNames": [
+                    "Web Meetings"
+                ]
+            },
+            {
+                "url": "huawei.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gartner.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "wikia.com",
+                "categoryNames": [
+                    "Forums & Newsgroups",
+                    "Education"
+                ]
+            },
+            {
+                "url": "census.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "discord.com",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "business.facebook.com",
+                "categoryNames": [
+                    "Social Networking",
+                    "Business"
+                ]
+            },
+            {
+                "url": "stripe.com",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "box.com",
+                "categoryNames": [
+                    "Personal Storage",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "acs.org",
+                "categoryNames": [
+                    "Education",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "in.ua",
+                "categoryNames": [
+                    "Unknown"
+                ]
+            },
+            {
+                "url": "i.imgur.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "medicalnewstoday.com",
+                "categoryNames": [
+                    "News",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "livescience.com",
+                "categoryNames": [
+                    "News",
+                    "Education"
+                ]
+            },
+            {
+                "url": "hilton.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "mirror.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "vkontakte.ru",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "thesun.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "microsoftonline.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "go.id",
+                "categoryNames": [
+                    "Unknown"
+                ]
+            },
+            {
+                "url": "senate.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "howstuffworks.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "usc.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "hhs.gov",
+                "categoryNames": [
+                    "Government",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "usgs.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "gob.mx",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "appspot.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "purdue.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "nyu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "nist.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "qc.ca",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "eff.org",
+                "categoryNames": [
+                    "Politics & Law"
+                ]
+            },
+            {
+                "url": "aliexpress.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "google.co.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "netscape.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "thetimes.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "online.wsj.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "barnesandnoble.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "unicef.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "variety.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "go.th",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "postgresql.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "globenewswire.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "on.ca",
+                "categoryNames": [
+                    "Unknown"
+                ]
+            },
+            {
+                "url": "teamviewer.com",
+                "categoryNames": [
+                    "Remote Access"
+                ]
+            },
+            {
+                "url": "nejm.org",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Education"
+                ]
+            },
+            {
+                "url": "getpocket.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "govt.nz",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "withgoogle.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "altervista.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sec.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "aljazeera.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "force.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "smh.com.au",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "politico.com",
+                "categoryNames": [
+                    "News",
+                    "Politics & Law"
+                ]
+            },
+            {
+                "url": "rt.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "rollingstone.com",
+                "categoryNames": [
+                    "News",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "googleblog.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "spiegel.de",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "kiev.ua",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "stackexchange.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "cbslocal.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "elpais.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "coursera.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "mitre.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "itu.int",
+                "categoryNames": [
+                    "Non-profits & NGOs",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nvidia.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "pcmag.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "slack.com",
+                "categoryNames": [
+                    "Chat",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.es",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "w3schools.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "venturebeat.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "evernote.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cdn.shopify.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "freepik.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "shutterstock.com",
+                "categoryNames": [
+                    "Image Sharing",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "matterport.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bitnami.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "duke.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "so.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "www.nhs.uk",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "ucsd.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "espn.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "m.me",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "kernel.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "msu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "history.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "airbnb.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "google.fr",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "proofpoint.com",
+                "categoryNames": [
+                    "Information Security",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.it",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "ssrn.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "earthlink.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "jd.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "canada.ca",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "amazon.co.jp",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "vmware.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "chinadaily.com.cn",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "themeisle.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "perfectdomain.com",
+                "categoryNames": [
+                    "General"
+                ]
+            },
+            {
+                "url": "timeanddate.com",
+                "categoryNames": [
+                    "News",
+                    "Education"
+                ]
+            },
+            {
+                "url": "mediafire.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "enable-javascript.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "scmp.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "mystrikingly.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "newscientist.com",
+                "categoryNames": [
+                    "News",
+                    "Education"
+                ]
+            },
+            {
+                "url": "techtarget.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ufl.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "theglobeandmail.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nydailynews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "sky.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "unc.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "windows.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "umd.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "express.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ny.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "openssl.org",
+                "categoryNames": [
+                    "Information Security"
+                ]
+            },
+            {
+                "url": "moodle.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "arizona.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "hollywoodreporter.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "slashdot.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "archives.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "thoughtco.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "service.gov.uk",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "thehill.com",
+                "categoryNames": [
+                    "News",
+                    "Politics & Law"
+                ]
+            },
+            {
+                "url": "acm.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "admin.ch",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "blogspot.co.uk",
+                "categoryNames": [
+                    "Personal Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "freebsd.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gallup.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "getbootstrap.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mixcloud.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "illinois.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "hatena.ne.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "justice.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "news.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "parallels.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "utoronto.ca",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "pwc.com",
+                "categoryNames": [
+                    "Business",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "cutt.ly",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "asu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "iana.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "drupal.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "chron.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ning.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "northwestern.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "about.me",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "dot.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ucdavis.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "siemens.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ok.ru",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "weather.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "vic.gov.au",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "privacyshield.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "apachefriends.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "techradar.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "lifehacker.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "java.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "news.com.au",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "smithsonianmag.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "today.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "metro.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nike.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "phys.org",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "webex.com",
+                "categoryNames": [
+                    "Web Meetings"
+                ]
+            },
+            {
+                "url": "instructables.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "amazon-adsystem.com",
+                "categoryNames": [
+                    "Advertisements & Pop-Ups"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "us.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "lww.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "atlassian.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "angelfire.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "joomla.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sakura.ne.jp",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nikkei.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nymag.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "naver.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "substack.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "fbcdn.net",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "congress.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "technologyreview.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mozilla.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "udemy.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "www.gov.cn",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "libsyn.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "jquery.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "fcc.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "miibeian.gov.cn",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "thedailybeast.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "outlook.live.com",
+                "categoryNames": [
+                    "Web-based Email"
+                ]
+            },
+            {
+                "url": "lemonde.fr",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "bigcartel.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "thenai.org",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "prezi.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "imageshack.us",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "yolasite.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "boston.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "fool.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "dmoz.org",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "euronews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "rutgers.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "energy.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ico.org.uk",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "digitaltrends.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "playstation.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "nsw.gov.au",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "kde.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "go.kr",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "dictionary.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "fbi.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ign.com",
+                "categoryNames": [
+                    "Games",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "qualtrics.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "office365.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "foursquare.com",
+                "categoryNames": [
+                    "Travel",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "imf.org",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "ubc.ca",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "osu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "colorado.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "snapchat.com",
+                "categoryNames": [
+                    "Chat",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "virginia.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "uspto.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "zhihu.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "bc.ca",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ow.ly",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cancer.org",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "herokuapp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "zend.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "prweb.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "telegra.ph",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "automattic.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "brookings.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "over-blog.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "perl.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "treasury.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "faqs.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ucl.ac.uk",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "pinterest.ca",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "wufoo.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "usa.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "moz.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "verisign.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "target.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "fedoraproject.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "people.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "icann.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bund.de",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "podbean.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "opensource.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "theregister.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.co.in",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "tmall.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "uber.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "woocommerce.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "mail.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "bostonglobe.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "sap.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "tamu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "army.mil",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "twimg.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "nasdaq.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "gutenberg.org",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "urbandictionary.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "khanacademy.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "wa.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "bu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "thefreedictionary.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "att.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "rfc-editor.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "dropcatch.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "va.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "microfocus.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "rakuten.co.jp",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "is.gd",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "medlineplus.gov",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "mlb.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "accenture.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "medscape.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "paypal.me",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "schneier.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "dol.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "lonelyplanet.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "thenextweb.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "heart.org",
+                "categoryNames": [
+                    "Non-profits & NGOs",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "dhs.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "adweek.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "symantec.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "salon.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "blog.google",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "rs6.net",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "mapquest.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "uol.com.br",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "cell.com",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Education"
+                ]
+            },
+            {
+                "url": "semanticscholar.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "nba.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "usembassy.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "lnkd.in",
+                "categoryNames": [
+                    "Professional Networking"
+                ]
+            },
+            {
+                "url": "cookiedatabase.org",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "livestream.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "digital.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "thestar.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "google.com.au",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "cpan.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ey.com",
+                "categoryNames": [
+                    "Business",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "amazon.ca",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "ndtv.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "fiverr.com",
+                "categoryNames": [
+                    "Job Search",
+                    "Business"
+                ]
+            },
+            {
+                "url": "g.co",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "undp.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "icio.us",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "wp.me",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ethz.ch",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "vanityfair.com",
+                "categoryNames": [
+                    "News",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "wustl.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "letsencrypt.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "hootsuite.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "lenovo.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "houzz.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Business"
+                ]
+            },
+            {
+                "url": "gamespot.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "novell.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "netdna-ssl.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "eurekalert.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "greenpeace.org",
+                "categoryNames": [
+                    "Nature & Conservation",
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "broadcom.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "consumerreports.org",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "discovery.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Education"
+                ]
+            },
+            {
+                "url": "ustream.tv",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "autodesk.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cctv.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "gmail.com",
+                "categoryNames": [
+                    "Web-based Email"
+                ]
+            },
+            {
+                "url": "ncsu.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "del.icio.us",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "crunchbase.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "google.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "flic.kr",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "themegrill.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "indiana.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "gob.es",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "iheart.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "steamcommunity.com",
+                "categoryNames": [
+                    "Games",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "nokia.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "alexa.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cygwin.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nyc.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "last.fm",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "mercurynews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "cancer.gov",
+                "categoryNames": [
+                    "Government",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "xbox.com",
+                "categoryNames": [
+                    "Games",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "spb.ru",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "verizon.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "voanews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "coe.int",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "haxx.se",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "pcworld.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "navy.mil",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "iop.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "web.dev",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "irishtimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "sba.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ilo.org",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "utah.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "insider.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "texas.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "oxfordjournals.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "tufts.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "globo.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "bitbucket.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ebay.co.uk",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "pitt.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "businessweek.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "france24.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "usps.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "ea.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "billboard.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "computerworld.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "hyatt.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "eventbrite.co.uk",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "zoho.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "seattletimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "duckduckgo.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "pastebin.com",
+                "categoryNames": [
+                    "File Repository",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "jimdofree.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ihg.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "de-de.facebook.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "globalnews.ca",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "aarp.org",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "jpost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "curl.se",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ucsb.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "garmin.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Sports"
+                ]
+            },
+            {
+                "url": "lego.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "wunderground.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ed.ac.uk",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "com.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Suspected Malware"
+                ]
+            },
+            {
+                "url": "glassdoor.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "youronlinechoices.eu",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "craigslist.org",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "git-scm.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "fifa.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "vogue.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "accuweather.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "feedly.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "amazon.fr",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "patch.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nobelprize.org",
+                "categoryNames": [
+                    "Non-profits & NGOs",
+                    "Education"
+                ]
+            },
+            {
+                "url": "smugmug.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "1688.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "asus.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "georgetown.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "openldap.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "curl.haxx.se",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "hrw.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "visualstudio.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cia.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "lefigaro.fr",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ameblo.jp",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "nic.in",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "bestbuy.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "colorlib.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "tencent.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "standard.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "deadline.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "zillow.com",
+                "categoryNames": [
+                    "Real Estate"
+                ]
+            },
+            {
+                "url": "ipcc.ch",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ccc.de",
+                "categoryNames": [
+                    "Non-profits & NGOs",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nhk.or.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "douban.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "google.nl",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "frontier.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "seekingalpha.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "fema.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "theregister.co.uk",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "snopes.com",
+                "categoryNames": [
+                    "News",
+                    "Education"
+                ]
+            },
+            {
+                "url": "fedex.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "ctvnews.ca",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "vt.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ups.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "istockphoto.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "udel.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "360.cn",
+                "categoryNames": [
+                    "Download Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "osha.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "list-manage1.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "clevelandclinic.org",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "answers.com",
+                "categoryNames": [
+                    "Education",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "securityfocus.com",
+                "categoryNames": [
+                    "Forums & Newsgroups",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "pbase.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "miamiherald.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "speedtest.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "hawaii.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "americanexpress.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "gettyimages.com",
+                "categoryNames": [
+                    "File Repository",
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "neilpatel.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "sony.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "prestashop.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "washingtontimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "pbs.twimg.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "gv.at",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ibtimes.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "accor.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "hubpages.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "findlaw.com",
+                "categoryNames": [
+                    "Politics & Law"
+                ]
+            },
+            {
+                "url": "japantimes.co.jp",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "disney.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "500px.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "foxbusiness.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "phpbb.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ohchr.org",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ap.org",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "gob.ar",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "techrepublic.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "space.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "esquire.com",
+                "categoryNames": [
+                    "News",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "caniuse.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "brown.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "redcross.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "narod.ru",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "indianexpress.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "orcid.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "worldometers.info",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "lh3.googleusercontent.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "amd.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "caltech.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "clinicaltrials.gov",
+                "categoryNames": [
+                    "Government",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "cuny.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "axios.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "panasonic.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mpg.de",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "nielsen.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "1drv.ms",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "thebalance.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "kaspersky.com",
+                "categoryNames": [
+                    "Business",
+                    "Information Security"
+                ]
+            },
+            {
+                "url": "gumroad.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "unl.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "stitcher.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "reference.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "hindustantimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "esa.int",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "oregonstate.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "redbull.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "perl.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "yumpu.com",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "msnbc.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "tesla.com",
+                "categoryNames": [
+                    "Business",
+                    "Transportation"
+                ]
+            },
+            {
+                "url": "isc.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "timeout.com",
+                "categoryNames": [
+                    "Travel",
+                    "News"
+                ]
+            },
+            {
+                "url": "metmuseum.org",
+                "categoryNames": [
+                    "Arts"
+                ]
+            },
+            {
+                "url": "akamaihd.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gatech.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ibb.co",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "trendmicro.com",
+                "categoryNames": [
+                    "Information Security"
+                ]
+            },
+            {
+                "url": "hopkinsmedicine.org",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "tx.us",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "vanderbilt.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "foodnetwork.com",
+                "categoryNames": [
+                    "Restaurants & Dining"
+                ]
+            },
+            {
+                "url": "eu.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wipo.int",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "pinterest.co.uk",
+                "categoryNames": [
+                    "Social Networking",
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "startribune.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "iastate.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "vatican.va",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "telegram.org",
+                "categoryNames": [
+                    "Instant Messaging",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "lua.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "howtogeek.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "weather.gov",
+                "categoryNames": [
+                    "News",
+                    "Government"
+                ]
+            },
+            {
+                "url": "wired.co.uk",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "olympics.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "goodhousekeeping.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "dropboxusercontent.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "cosmopolitan.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "mcgill.ca",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "rottentomatoes.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "popsci.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "stuff.co.nz",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "tableau.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ssa.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "ehow.com",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "philips.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "outlook.office.com",
+                "categoryNames": [
+                    "Web-based Email"
+                ]
+            },
+            {
+                "url": "bell-labs.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "csmonitor.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "deezer.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "verywellmind.com",
+                "categoryNames": [
+                    "News",
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "buzzfeednews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "spreaker.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "lg.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "csdn.net",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "gimp.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "man7.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "upwork.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "denverpost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "imageshack.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "wikisource.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ycombinator.com",
+                "categoryNames": [
+                    "Business",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "china.com.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "umass.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "mn.us",
+                "categoryNames": [
+                    "Unknown"
+                ]
+            },
+            {
+                "url": "yp.to",
+                "categoryNames": [
+                    "General"
+                ]
+            },
+            {
+                "url": "uk.linkedin.com",
+                "categoryNames": [
+                    "Professional Networking"
+                ]
+            },
+            {
+                "url": "blogspot.ca",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "worldcat.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "mediawiki.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "calameo.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "google.com.br",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "uga.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "ourworldindata.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "uiowa.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "foreignpolicy.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nodejs.org",
+                "categoryNames": [
+                    "Download Sites",
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "thehindu.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ilias.ca",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "finance.yahoo.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "optout.aboutads.info",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "digitalocean.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "photos.app.goo.gl",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "amnesty.org",
+                "categoryNames": [
+                    "Non-profits & NGOs"
+                ]
+            },
+            {
+                "url": "m.facebook.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "fr.wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "mail.google.com",
+                "categoryNames": [
+                    "Web-based Email"
+                ]
+            },
+            {
+                "url": "codex.wordpress.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "www2.deloitte.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "jelix.org",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "v.qq.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "storage.googleapis.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "3.bp.blogspot.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "de.wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "lenyar.ru",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "open.spotify.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "talk.plesk.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "aol.co.uk",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "login.microsoftonline.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "teams.microsoft.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "i2.wp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "us02web.zoom.us",
+                "categoryNames": [
+                    "Web Meetings"
+                ]
+            },
+            {
+                "url": "pubmed.ncbi.nlm.nih.gov",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "sedo.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "music.apple.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "store.steampowered.com",
+                "categoryNames": [
+                    "Games",
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "yayoye-spiele.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "ru.wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "welt.de",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ultimo.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "generatepress.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "support.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "form.jotform.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "lh3.googleusercontent.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wireshark.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "commons.wikimedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "widgets.wp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "it.wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "mp.weixin.qq.com",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "huffingtonpost.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "searchenginejournal.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "semrush.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "aws.amazon.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "thebalancemoney.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "i.imgur.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "forms.office.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wanwang.aliyun.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "auctollo.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "scoop.it",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "man7.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "s3.amazonaws.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ampproject.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ovhcloud.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "liveabout.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "help.opera.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "baike.baidu.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "tesla.com",
+                "categoryNames": [
+                    "Business",
+                    "Transportation"
+                ]
+            },
+            {
+                "url": "accraine.co.uk",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "wetransfer.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "apksupply.com",
+                "categoryNames": [
+                    "Peer-to-Peer"
+                ]
+            },
+            {
+                "url": "cloud.google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "diigo.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "msdn.microsoft.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mi.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "web.archive.org",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            }
+        ]
+    }
+]

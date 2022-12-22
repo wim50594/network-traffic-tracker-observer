@@ -1,0 +1,3509 @@
+[
+    {
+        "urls": [
+            {
+                "url": "google.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "youtube.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "tmall.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "sohu.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "baidu.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "facebook.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "qq.com",
+                "categoryNames": [
+                    "News",
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "taobao.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "360.cn",
+                "categoryNames": [
+                    "Download Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "jd.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "amazon.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "yahoo.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "weibo.com",
+                "categoryNames": [
+                    "News",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "wikipedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "xinhuanet.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "sina.com.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "netflix.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "live.com",
+                "categoryNames": [
+                    "Web-based Email",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "reddit.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "instagram.com",
+                "categoryNames": [
+                    "Social Networking",
+                    "Image Sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "zhanqi.tv",
+                "categoryNames": [
+                    "Games",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "google.com.hk",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "alipay.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "panda.tv",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "canva.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "csdn.net",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "microsoft.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bing.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "vk.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "zoom.us",
+                "categoryNames": [
+                    "Web Meetings"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "coinmarketcap.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "myshopify.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "yahoo.co.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "twitter.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "twitch.tv",
+                "categoryNames": [
+                    "Games",
+                    "Streaming Media & Downloads",
+                    "Forums & Newsgroups"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "office.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "huanqiu.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "bongacams.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "tianya.cn",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ebay.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "apple.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "yy.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "aliexpress.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "haosou.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "amazon.in",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "chaturbate.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "naver.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "amazon.co.jp",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "whatsapp.com",
+                "categoryNames": [
+                    "Instant Messaging",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "17ok.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "adobe.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "binance.com",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "amazonaws.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "linkedin.com",
+                "categoryNames": [
+                    "Professional Networking"
+                ]
+            },
+            {
+                "url": "yandex.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "microsoftonline.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "aparat.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "ok.ru",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "fiverr.com",
+                "categoryNames": [
+                    "Job Search",
+                    "Business"
+                ]
+            },
+            {
+                "url": "babytree.com",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "wordpress.com",
+                "categoryNames": [
+                    "Personal Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "1688.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "mail.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "msn.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "tiktok.com",
+                "categoryNames": [
+                    "Social Networking",
+                    "Entertainment"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "blogger.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.co.in",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "imdb.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "etsy.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "xhamster.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "medium.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "tribunnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "paypal.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "indeed.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "roblox.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "pornhub.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "so.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "rakuten.co.jp",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "chase.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "spotify.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "dropbox.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "google.com.br",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "telegram.org",
+                "categoryNames": [
+                    "Instant Messaging",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "force.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "espn.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "github.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "walmart.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "xvideos.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "pikiran-rakyat.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "fandom.com",
+                "categoryNames": [
+                    "Forums & Newsgroups",
+                    "Entertainment"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "6.cn",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "cnzz.com",
+                "categoryNames": [
+                    "Advertisements & Pop-Ups"
+                ]
+            },
+            {
+                "url": "alibaba.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "livejasmin.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "amazon.de",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "gome.com.cn",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "opensea.io",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.de",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "upwork.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "cnblogs.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "udemy.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "stackoverflow.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "rednet.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "booking.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "flipkart.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "google.co.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "google.es",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "pinterest.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "t.me",
+                "categoryNames": [
+                    "Chat",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "savefrom.net",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Streaming Media & Downloads"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "bbc.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "primevideo.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "amazon.co.uk",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "salesforce.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "godaddy.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "bestbuy.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "google.fr",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "hao123.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "163.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "imgur.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "ettoday.net",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "digikala.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "slack.com",
+                "categoryNames": [
+                    "Chat",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "w3schools.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "tumblr.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "cnn.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "duckduckgo.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "zillow.com",
+                "categoryNames": [
+                    "Real Estate"
+                ]
+            },
+            {
+                "url": "google.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "grammarly.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "nytimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "stackexchange.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "instructure.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Education"
+                ]
+            },
+            {
+                "url": "soundcloud.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "jiameng.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "kompas.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nih.gov",
+                "categoryNames": [
+                    "Government",
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "bbc.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "disneyplus.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "wetransfer.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "google.it",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "bet9ja.com",
+                "categoryNames": [
+                    "Gambling"
+                ]
+            },
+            {
+                "url": "pixnet.net",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "google.com.tw",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "ilovepdf.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "detik.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "hotstar.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "xnxx.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "archive.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "daum.net",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "speedtest.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bet365.com",
+                "categoryNames": [
+                    "Gambling"
+                ]
+            },
+            {
+                "url": "amazon.ca",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "mediafire.com",
+                "categoryNames": [
+                    "Personal Storage"
+                ]
+            },
+            {
+                "url": "varzesh3.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "deepl.com",
+                "categoryNames": [
+                    "Translators"
+                ]
+            },
+            {
+                "url": "notion.so",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "washingtonpost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "51.la",
+                "categoryNames": [
+                    "Malware"
+                ]
+            },
+            {
+                "url": "onlinesbi.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "trendyol.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "intuit.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "google.com.sg",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "grid.id",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "sogou.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "indiatimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "soso.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "avito.ru",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "theguardian.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "gate.io",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "okezone.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "hdfcbank.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "mozilla.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "globo.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "mailchimp.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "chess.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "researchgate.net",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "gosuslugi.ru",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "zendesk.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "pixabay.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "craigslist.org",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "tudou.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "tistory.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.co.uk",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "scribd.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Leisure & Recreation"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "smallpdf.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bilibili.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "hulu.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "office365.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "kumparan.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "wellsfargo.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "homedepot.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "target.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "youm7.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "poocoin.app",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "vimeo.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "hbomax.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "cnnic.cn",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "neobux.com",
+                "categoryNames": [
+                    "Spam Sites",
+                    "Suspected Malware"
+                ]
+            },
+            {
+                "url": "momoshop.com.tw",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "telewebion.com",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "sindonews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "capitalone.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "wikihow.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "google.com.tr",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "aliexpress.ru",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "americanexpress.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "ask.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "amazon.fr",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "tradingview.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "line.me",
+                "categoryNames": [
+                    "Chat",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "unsplash.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "ebay.de",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "amazon.it",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "cnet.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "icicibank.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "ustachedst.co",
+                "categoryNames": [
+                    "Spam Sites"
+                ]
+            },
+            {
+                "url": "sonhoo.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "ikea.com",
+                "categoryNames": [
+                    "Leisure & Recreation",
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "foxnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "healthline.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "rokna.net",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "amazon.es",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "thepiratebay.org",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Download Sites"
+                ]
+            },
+            {
+                "url": "istockphoto.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Image Sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "ups.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "yelp.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Business"
+                ]
+            },
+            {
+                "url": "51yes.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "axieinfinity.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "etoro.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "googlevideo.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "wikimedia.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "samsung.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.com.mx",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "manoramaonline.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "wildberries.ru",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "fedex.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "usps.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "360.com",
+                "categoryNames": [
+                    "Information Security"
+                ]
+            },
+            {
+                "url": "gtmetrix.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "remove.bg",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "behance.net",
+                "categoryNames": [
+                    "Image Sharing",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "google.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "forbes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "google.com.ar",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "google.ca",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "bluehost.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "iyiou.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "indiamart.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "skype.com",
+                "categoryNames": [
+                    "Web Phone"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "secureserver.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "themeforest.net",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "linktr.ee",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "rt.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "orange.fr",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "airbnb.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "zol.com.cn",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "ih5.cn",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "mercadolibre.com.ar",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "blackboard.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "premierleague.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "namu.wiki",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "macys.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "hp.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "op.gg",
+                "categoryNames": [
+                    "Games"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "line.biz",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "lazada.sg",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "kakao.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ozon.ru",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "investopedia.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "mercadolibre.com.mx",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "allegro.pl",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "spankbang.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            },
+            {
+                "url": "redfin.com",
+                "categoryNames": [
+                    "Real Estate"
+                ]
+            },
+            {
+                "url": "wix.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "taboola.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "google.com.eg",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "quizlet.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "steamcommunity.com",
+                "categoryNames": [
+                    "Games",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "asos.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "y2mate.com",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Streaming Media & Downloads",
+                    "General"
+                ]
+            },
+            {
+                "url": "dailymotion.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "shutterstock.com",
+                "categoryNames": [
+                    "Image Sharing",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "in.gr",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "quora.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "businessinsider.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "suara.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "proiezionidiborsa.it",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.co.th",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "uol.com.br",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "yandex.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "vidio.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "twimg.com",
+                "categoryNames": [
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "google.com.sa",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "bankofamerica.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "costco.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "focus.cn",
+                "categoryNames": [
+                    "Real Estate"
+                ]
+            },
+            {
+                "url": "shimo.im",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "namasha.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "dell.com",
+                "categoryNames": [
+                    "Business",
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "reverso.net",
+                "categoryNames": [
+                    "Translators"
+                ]
+            },
+            {
+                "url": "redd.it",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "metropoles.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "irctc.co.in",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "realtor.com",
+                "categoryNames": [
+                    "Real Estate"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "padlet.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "getadblock.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "gusuwang.com",
+                "categoryNames": [
+                    "Search Engines & Portals",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "shopee.tw",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "chegg.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "dailymail.co.uk",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "google.co.id",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "livescore.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "uptodown.com",
+                "categoryNames": [
+                    "Download Sites",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "fast.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "patreon.com",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "sciencedirect.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "yts.mx",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Download Sites"
+                ]
+            },
+            {
+                "url": "aol.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "uchi.ru",
+                "categoryNames": [
+                    "Education"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "squarespace.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nicovideo.jp",
+                "categoryNames": [
+                    "Entertainment",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "rutracker.org",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Download Sites",
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "cambridge.org",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "breitbart.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "wholeactualnewz.com",
+                "categoryNames": [
+                    "Spam Sites"
+                ]
+            },
+            {
+                "url": "zhihu.com",
+                "categoryNames": [
+                    "Forums & Newsgroups"
+                ]
+            },
+            {
+                "url": "setn.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "dextools.io",
+                "categoryNames": [
+                    "Finance",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "wordpress.org",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "citi.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "yjc.news",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "weather.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ebay.co.uk",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "ndtv.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "tokopedia.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "lowes.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "t.co",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bloomberg.com",
+                "categoryNames": [
+                    "News",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "ai.marketing",
+                "categoryNames": [
+                    "Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "quillbot.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "infobae.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "namnak.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ameblo.jp",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "donya-e-eqtesad.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "cloudfront.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "cnbc.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "nvidia.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ibicn.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "iqbroker.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "yoox.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "iqiyi.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "sq.cn",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "kakaku.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "cricbuzz.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "sberbank.ru",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "wazirx.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "shopee.com.my",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "flickr.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            },
+            {
+                "url": "wsj.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "evernote.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "ca.gov",
+                "categoryNames": [
+                    "Government"
+                ]
+            },
+            {
+                "url": "smallseotools.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Business"
+                ]
+            },
+            {
+                "url": "fidelity.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "liansuo.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "genius.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "albawabhnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "torob.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "ria.ru",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "xfinity.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "shopee.co.id",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "espncricinfo.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "1337x.to",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Download Sites"
+                ]
+            },
+            {
+                "url": "calendly.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "nike.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "ssense.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "rezka.ag",
+                "categoryNames": [
+                    "Illegal Software",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "rakuten.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "google.pl",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "gismeteo.ru",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "bp.blogspot.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "house365.com",
+                "categoryNames": [
+                    "Real Estate"
+                ]
+            },
+            {
+                "url": "divar.ir",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "heavy.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "ensonhaber.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "shein.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "zhibo8.cc",
+                "categoryNames": [
+                    "Sports",
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "google.com.ua",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "oschina.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "expedia.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "coupang.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "mathrubhumi.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "google.co.kr",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "slickdeals.net",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "japanpost.jp",
+                "categoryNames": [
+                    "Business"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "9gag.com",
+                "categoryNames": [
+                    "Child Inappropriate",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "alwafd.news",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "crypto.com",
+                "categoryNames": [
+                    "Business",
+                    "Finance"
+                ]
+            },
+            {
+                "url": "ouedkniss.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "shopee.co.th",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "livejournal.com",
+                "categoryNames": [
+                    "Personal Sites"
+                ]
+            },
+            {
+                "url": "eghtesadnews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "goodreads.com",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "payeer.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "moniban.news",
+                "categoryNames": [
+                    "Business"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "verizon.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "babyschool.com.cn",
+                "categoryNames": [
+                    "Education",
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "fardanews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "payu.in",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "naukri.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "merdeka.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "delgarm.com",
+                "categoryNames": [
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "alnaharegypt.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "clickbank.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "zerodha.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "kooora.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "inquirer.net",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "web.de",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "360doc.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "adp.com",
+                "categoryNames": [
+                    "Computers & Technology",
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "outbrain.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "uniqlo.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "trustpilot.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "google.ro",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "fool.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "ea.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "glassdoor.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "haiwainet.cn",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "rctiplus.com",
+                "categoryNames": [
+                    "General"
+                ]
+            },
+            {
+                "url": "elwatannews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "gmx.net",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "globalsources.com",
+                "categoryNames": [
+                    "Business",
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "meesho.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "crunchyroll.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "yeniakit.com.tr",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "dcard.tw",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "webmd.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "nba.com",
+                "categoryNames": [
+                    "Sports"
+                ]
+            },
+            {
+                "url": "rottentomatoes.com",
+                "categoryNames": [
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "gsmarena.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "fc2.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "shareasale.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "shippingchina.com",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "att.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "rambler.ru",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "freelancer.com",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "protonmail.com",
+                "categoryNames": [
+                    "Web-based Email"
+                ]
+            },
+            {
+                "url": "nypost.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "abema.tv",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "xhamsterlive.com",
+                "categoryNames": [
+                    "Pornography/Sexually Explicit"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "akamaized.net",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "t-online.de",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "shomanews.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "deviantart.com",
+                "categoryNames": [
+                    "Image Sharing",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "mit.edu",
+                "categoryNames": [
+                    "Education"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "crowdworks.jp",
+                "categoryNames": [
+                    "Job Search"
+                ]
+            },
+            {
+                "url": "redbubble.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Arts"
+                ]
+            },
+            {
+                "url": "it168.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "td.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            },
+            {
+                "url": "pinimg.com",
+                "categoryNames": [
+                    "Social Networking",
+                    "Image Sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "clickpost.jp",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "feedly.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "bukalapak.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "epicgames.com",
+                "categoryNames": [
+                    "Games"
+                ]
+            },
+            {
+                "url": "techcrunch.com",
+                "categoryNames": [
+                    "News",
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "filimo.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads"
+                ]
+            },
+            {
+                "url": "coursehero.com",
+                "categoryNames": [
+                    "Education"
+                ]
+            },
+            {
+                "url": "endclothing.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Fashion & Beauty"
+                ]
+            },
+            {
+                "url": "alodokter.com",
+                "categoryNames": [
+                    "Health & Medicine"
+                ]
+            },
+            {
+                "url": "zoho.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "eatthis.com",
+                "categoryNames": [
+                    "Health & Medicine",
+                    "Restaurants & Dining"
+                ]
+            },
+            {
+                "url": "reuters.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "newegg.com",
+                "categoryNames": [
+                    "Shopping",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "dstv.com",
+                "categoryNames": [
+                    "Streaming Media & Downloads",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "meituan.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "oracle.com",
+                "categoryNames": [
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "idntimes.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "elbalad.news",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "cjdropshipping.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "banvenez.com",
+                "categoryNames": [
+                    "Finance"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "elmogaz.com",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "go.com",
+                "categoryNames": [
+                    "Entertainment",
+                    "Leisure & Recreation"
+                ]
+            },
+            {
+                "url": "ahram.org.eg",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "seznam.cz",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "amazon.com.au",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "liputan6.com",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "ign.com",
+                "categoryNames": [
+                    "Games",
+                    "Entertainment"
+                ]
+            },
+            {
+                "url": "goo.ne.jp",
+                "categoryNames": [
+                    "Search Engines & Portals"
+                ]
+            },
+            {
+                "url": "xbox.com",
+                "categoryNames": [
+                    "Games",
+                    "Computers & Technology"
+                ]
+            },
+            {
+                "url": "aajtak.in",
+                "categoryNames": [
+                    "News"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "shaparak.ir",
+                "categoryNames": [
+                    "Business"
+                ]
+            },
+            {
+                "url": "ltn.com.tw",
+                "categoryNames": [
+                    "News"
+                ]
+            },
+            {
+                "url": "slideshare.net",
+                "categoryNames": [
+                    "File Repository"
+                ]
+            },
+            {
+                "url": "hepsiburada.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "sahibinden.com",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            }
+        ]
+    },
+    {
+        "urls": [
+            {
+                "url": "amazon.com.mx",
+                "categoryNames": [
+                    "Shopping"
+                ]
+            },
+            {
+                "url": "tripadvisor.com",
+                "categoryNames": [
+                    "Travel"
+                ]
+            },
+            {
+                "url": "discord.com",
+                "categoryNames": [
+                    "Chat"
+                ]
+            },
+            {
+                "url": "onlyfans.com",
+                "categoryNames": [
+                    "Nudity",
+                    "Social Networking"
+                ]
+            },
+            {
+                "url": "freepik.com",
+                "categoryNames": [
+                    "Image Sharing"
+                ]
+            }
+        ]
+    }
+]

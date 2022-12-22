@@ -1,0 +1,599 @@
+{
+    "urls": [
+        {
+            "url": "tagesschau.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "sport1.de",
+            "categoryNames": [
+                "Sports"
+            ]
+        },
+        {
+            "url": "wetteronline.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "web.de",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "gala.de",
+            "categoryNames": [
+                "Entertainment",
+                "Fashion & Beauty"
+            ]
+        },
+        {
+            "url": "fandom.com",
+            "categoryNames": [
+                "Forums & Newsgroups",
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "amazon.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "wetter.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "bahn.de",
+            "categoryNames": [
+                "Travel"
+            ]
+        },
+        {
+            "url": "telekom.com",
+            "categoryNames": [
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "dhl.de",
+            "categoryNames": [
+                "Business"
+            ]
+        },
+        {
+            "url": "focus.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "sueddeutsche.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "t-online.de",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "giga.de",
+            "categoryNames": [
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "gutefrage.net",
+            "categoryNames": [
+                "Forums & Newsgroups"
+            ]
+        },
+        {
+            "url": "pinterest.de",
+            "categoryNames": [
+                "Social Networking"
+            ]
+        },
+        {
+            "url": "ebay.com",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "mediamarkt.de",
+            "categoryNames": [
+                "Shopping",
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "pressekompass.net",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "ikea.com",
+            "categoryNames": [
+                "Leisure & Recreation",
+                "Shopping"
+            ]
+        },
+        {
+            "url": "zdf.de",
+            "categoryNames": [
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "n-tv.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "chaturbate.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "demdex.net",
+            "categoryNames": [
+                "Business"
+            ]
+        },
+        {
+            "url": "facebook.com",
+            "categoryNames": [
+                "Social Networking"
+            ]
+        },
+        {
+            "url": "yahoo.com",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "pornhub.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "livejasmin.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "stackoverflow.com",
+            "categoryNames": [
+                "Computers & Technology",
+                "Forums & Newsgroups"
+            ]
+        },
+        {
+            "url": "tz.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "accuweather.com",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "joyclub.de",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "github.com",
+            "categoryNames": [
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "twitter.com",
+            "categoryNames": [
+                "Social Networking"
+            ]
+        },
+        {
+            "url": "whatsapp.com",
+            "categoryNames": [
+                "Instant Messaging",
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "linkedin.com",
+            "categoryNames": [
+                "Professional Networking"
+            ]
+        },
+        {
+            "url": "spiegel.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "bunte.de",
+            "categoryNames": [
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "finanzen.net",
+            "categoryNames": [
+                "Finance"
+            ]
+        },
+        {
+            "url": "rtl.de",
+            "categoryNames": [
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "ebay.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "xhamsterlive.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "mydealz.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "otto.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "check24.de",
+            "categoryNames": [
+                "Finance",
+                "Shopping"
+            ]
+        },
+        {
+            "url": "weather.com",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "idealo.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "youporn.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "kicker.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "netflix.com",
+            "categoryNames": [
+                "Streaming Media & Downloads",
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "immobilienscout24.de",
+            "categoryNames": [
+                "Real Estate"
+            ]
+        },
+        {
+            "url": "mobile.de",
+            "categoryNames": [
+                "Transportation",
+                "Shopping"
+            ]
+        },
+        {
+            "url": "youtube.com",
+            "categoryNames": [
+                "Entertainment",
+                "Streaming Media & Downloads"
+            ]
+        },
+        {
+            "url": "bild.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "booking.com",
+            "categoryNames": [
+                "Travel"
+            ]
+        },
+        {
+            "url": "instagram.com",
+            "categoryNames": [
+                "Social Networking",
+                "Image Sharing"
+            ]
+        },
+        {
+            "url": "kaufland.de",
+            "categoryNames": [
+                "Shopping",
+                "Business"
+            ]
+        },
+        {
+            "url": "faz.net",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "welt.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "samsung.com",
+            "categoryNames": [
+                "Business",
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "gmx.net",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "netdoktor.de",
+            "categoryNames": [
+                "Health & Medicine"
+            ]
+        },
+        {
+            "url": "chip.de",
+            "categoryNames": [
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "fr.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "chefkoch.de",
+            "categoryNames": [
+                "Restaurants & Dining"
+            ]
+        },
+        {
+            "url": "twitch.tv",
+            "categoryNames": [
+                "Games",
+                "Streaming Media & Downloads",
+                "Forums & Newsgroups"
+            ]
+        },
+        {
+            "url": "wunderweib.de",
+            "categoryNames": [
+                "Leisure & Recreation"
+            ]
+        },
+        {
+            "url": "wetter.com",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "live.com",
+            "categoryNames": [
+                "Web-based Email",
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "br.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "stern.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "vodafone.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "rnd.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "bing.com",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "amazon.com",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "teads.tv",
+            "categoryNames": [
+                "Business"
+            ]
+        },
+        {
+            "url": "xhamster.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "tripadvisor.de",
+            "categoryNames": [
+                "Travel"
+            ]
+        },
+        {
+            "url": "tiktok.com",
+            "categoryNames": [
+                "Social Networking",
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "xvideos.com",
+            "categoryNames": [
+                "Pornography/Sexually Explicit"
+            ]
+        },
+        {
+            "url": "paypal.com",
+            "categoryNames": [
+                "Finance"
+            ]
+        },
+        {
+            "url": "wikipedia.org",
+            "categoryNames": [
+                "Education"
+            ]
+        },
+        {
+            "url": "google.de",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "derwesten.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "zeit.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "lidl.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "ndr.de",
+            "categoryNames": [
+                "News",
+                "Streaming Media & Downloads"
+            ]
+        },
+        {
+            "url": "tvspielfilm.de",
+            "categoryNames": [
+                "Entertainment"
+            ]
+        },
+        {
+            "url": "transfermarkt.de",
+            "categoryNames": [
+                "Sports"
+            ]
+        },
+        {
+            "url": "google.com",
+            "categoryNames": [
+                "Search Engines & Portals"
+            ]
+        },
+        {
+            "url": "markt.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        },
+        {
+            "url": "zalando.de",
+            "categoryNames": [
+                "Shopping",
+                "Fashion & Beauty"
+            ]
+        },
+        {
+            "url": "telekom.de",
+            "categoryNames": [
+                "Computers & Technology"
+            ]
+        },
+        {
+            "url": "merkur.de",
+            "categoryNames": [
+                "News"
+            ]
+        },
+        {
+            "url": "ebay-kleinanzeigen.de",
+            "categoryNames": [
+                "Shopping"
+            ]
+        }
+    ]
+}
