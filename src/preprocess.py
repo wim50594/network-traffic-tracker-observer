@@ -88,7 +88,8 @@ def get_resources(data, website_call, study_name) -> Tuple[List[resource], str]:
             None,
         )
         tcp_id = tcp["tcp.stream"]
-        connection_id = sha3(str((website_call, study_name, tcp_id)))
+        communication_id = sha3(str((website_call, study_name, ip_addr)))
+        connection_id = sha3(str((website_call, study_name, ip_addr, tcp_id)))
 
         if has_layer(packet, "http2"):
             # HTTP2
@@ -108,7 +109,7 @@ def get_resources(data, website_call, study_name) -> Tuple[List[resource], str]:
                         continue
                     http2_id = http2_stream["http2.streamid"]
                     resource_id = sha3(
-                        str((website_call, study_name, tcp_id, http2_id)))
+                        str((website_call, study_name, ip_addr, tcp_id, http2_id)))
 
                     if "0" == http2_stream["http2.type"]:
                         # HTTP2 Data
@@ -137,14 +138,14 @@ def get_resources(data, website_call, study_name) -> Tuple[List[resource], str]:
                             if "http2.push_promise.promised_stream_id" in http2_stream:
                                 http2_pushid = http2_stream["http2.push_promise.promised_stream_id"]
                                 resource_id = sha3(
-                                    str((website_call, study_name, tcp_id, http2_pushid)))
+                                    str((website_call, study_name, ip_addr, tcp_id, http2_pushid)))
 
                             if resource_id in resources:
                                 logs.critical(
                                     f"Skip because resource already exists context={website_call}, framenr={frame_nr}, httpstream={http2_id}")
                                 continue
                             url = get_http2_url(headers)
-                            r = resource(resource_id, url, connection_id, ip_addr,
+                            r = resource(resource_id, communication_id, connection_id, url, ip_addr,
                                          "http2", headers[":method"], website_call, frame_nr)
                             resources[resource_id] = r
                         else:
@@ -184,10 +185,10 @@ def get_resources(data, website_call, study_name) -> Tuple[List[resource], str]:
             start = int(http["http.request_in"])
             start_packet = get_layer(data[start - 1], "http")
             method = next(iter(start_packet.values()))["http.request.method"]
-            resource_id = sha3(str((website_call, study_name, tcp_id, start)))
+            resource_id = sha3(str((website_call, study_name, ip_addr, tcp_id, start)))
             url = http["http.response_for.uri"]
             content = http["http.content_type"] if "http.content_type" in http else None
-            r = resource(resource_id, url, connection_id, ip_addr, "http",
+            r = resource(resource_id, communication_id, connection_id, url, ip_addr, "http",
                          method, website_call, start, end_header=frame_nr, content=content)
             r.add_packet(frame_nr)
             resources[resource_id] = r

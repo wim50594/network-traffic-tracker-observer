@@ -7,9 +7,10 @@ from tld.exceptions import TldDomainNotFound, TldBadUrl
 
 @dataclass
 class resource:
-    id: str
-    url: str
+    resource_id: str
+    communication_id: str
     connection_id: str
+    url: str
     ip: str
     protocol: str
     method: str

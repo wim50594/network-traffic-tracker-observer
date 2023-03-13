@@ -48,6 +48,9 @@ class CrawlManager:
         options.add_argument("--user-data-dir=chrome-data")
         options.add_argument("--disable-cookie-encryption")
 
+        # bot detection
+        options.add_argument('--disable-blink-features=AutomationControlled')
+
         # Options to avoid errors (disabling features)
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--disable-browser-side-navigation")
@@ -59,6 +62,9 @@ class CrawlManager:
 
         driver = webdriver.Remote(
             f"http://127.0.0.1:{self.port}", options=options)
+        driver.execute_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+
         driver.set_page_load_timeout(self.timeout)
         return driver
 
